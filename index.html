@@ -1,16 +1,71 @@
 ---
 layout: layout
-title: "Posts"
+title: "About"
 ---
-
 <section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-      {% unless post.draft %}
-      <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-</section>
+	<h1>I’m a geek, a nerd, a hacker.</h1>
+
+	<p>I’m a technology enthusiast passionate about Web technologies, great design, and applications that help and assist others. </p>
+
+	<p>A Virginia Beach native and proud <a href="http://www.oceanlakeshs.vbschools.com/">Ocean Lakes High School</a> alumnus, I attended the <a href="http://www.virginia.edu">University of Virginia (UVa)</a> in Charlottesville, where I dabbled in English, Drama, Government, and Math before settling on a major in Computer Science, minor in Media Studies. You always hear about that moment in college where “things just click,” and I had that moment during my first-year, in front of my MacBook Pro, writing code.</p>
+	
+	<!-- Thank you, Dom Briggs, for providing this wonderful code! http://cssdeck.com/labs/pure-css-osx-terminal -->
+	<div id="window">
+		<div id="toolbar">
+			<div class="top">
+				<div id="lights">
+					<div class="light red">
+						<div class="glyph">×</div>
+						<div class="shine"></div>
+						<div class="glow"></div>
+					</div>				
+					<div class="light yellow">
+						<div class="glyph">-</div>
+						<div class="shine"></div>
+						<div class="glow"></div>
+					</div>
+					<div class="light green">
+						<div class="glyph">+</div>
+						<div class="shine"></div>
+						<div class="glow"></div>
+					</div>
+				</div>
+				<div id="title">
+					<div class="folder">
+						<div class="tab"></div>
+						<div class="body"></div>
+					</div>
+					jakekenneally.com
+				</div>
+				<div id="bubble">
+					<div class="shine"></div>
+					<div class="glow"></div>
+				</div>
+			</div>
+		</div>
+		<div id="body">
+			<p> Last login: <span id="date"></span> on ttys001 <br />
+				Jakes-MacBook-Pro:jakekenneally.com jake$  echo click
+				<br />
+				click
+			</p>	
+			<div class="cursor">
+			</div>	
+		</div>	
+	</div>
+
+	<p>I’ve interned at <a href="http://www.ccri.com/">Commonwealth Computer Research, Inc.</a> in Charlottesville, where I helped close over 40 issues in the SWIFT and SPINOZA applications user interfaces and backends. I’ve also interned at <a href="https://www.genworth.com/">Genworth</a> in Richmond, VA, where I implemented a database-driven system to inventory 300+ server nodes, talk to <a href="http://puppetlabs.com/puppet/what-is-puppet">Puppet</a>, and control the infrastructure from a simple Web interface.</p>
+
+	<p>For side projects:</p>
+	<ul>
+		<li>I made <a href="http://diduvawin.com/">DidUVaWin.com</a>. Go Hoos.</li>
+		<li>I created <a href="http://rushthetachiuva.com/">a system</a> to organize Fraternity Rush at UVa for my fraternity, Theta Chi.</li>
+		<li>I helped design <a href="http://kevin.4mcveys.com/CS1501/finals/team_5/index.html">visualizations</a> of Mumford and Sons lyrics.</li>
+		<li>And I designed <a href="http://beforeyougraduate.uva2014.com/">an application</a> to manage the completion of UVa’s “114 Things To Do Before We Graduate” list.</li>
+	</ul>
+
+	<p>I made my mark at UVa in being the first Senior Resident for <a href="http://news.virginia.edu/content/incoming-first-year-students-get-three-new-residence-halls">Tuttle-Dunnington Residence Hall</a>, serving as a Class of 2014 Trustee, and working as <a href="http://social.virginia.edu/how-the-rotunda-light-show-came-together-for-lighting-of-the-lawn/#comment-2109">the Marketing Committee chair</a> for the 2013 <a href="https://www.youtube.com/watch?v=-miMTN_jek8">Lighting of the Lawn.</a></p>
+
+	<p>In my free time, I enjoy <a href="http://www.last.fm/user/jakeapher">listening</a> to and <a href="https://www.youtube.com/watch?v=J2EukZUovAk">playing</a> music. I love watching <a href="https://www.youtube.com/watch?v=ejc5zic4q2A">comedy</a>, my favorite movies are the <a href="http://www.bttf.com/">Back to the Future trilogy</a>, and I have a giant t-shirt collection (144 and counting). I’m also trying to better my <a href="https://untappd.com/user/jkenneally">beer-snobiness</a>, but I’m pretty bad at it since I only just recently celebrated my 21st.</p>
+
+	<p>Want to know more? Want to work on a cool, helpful Web app? Find me on Github or send an email to <a href="mailto:jkenneally@virginia.edu">jkenneally [at] virginia [dot] edu</a>.</p>
