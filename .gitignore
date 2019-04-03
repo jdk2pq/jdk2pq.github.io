@@ -4,3 +4,4 @@ website.sublime-workspace
 .DS_Store
 .jekyll-metadata
 *.sublime*
+.idea
