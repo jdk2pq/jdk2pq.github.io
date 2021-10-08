@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jakekenneally.com
+Token: ac135672b65226e92c14b0b42405867132499af32009823f3452c5dfb84a8769
