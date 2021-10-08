@@ -10,3 +10,4 @@ url: https://jakekenneally.com
 description: Personal homepage of software engineer Jake Kenneally
 twitter: jakeapher
 linkedin: jakekenneally
+include: [".well-known", ".nojekyll"]
