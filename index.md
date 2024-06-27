@@ -28,7 +28,7 @@ Before that, I was a UI/UX Software engineer at [CCRi](http://www.ccri.com/) on 
 - I graduated from the University of Virginia in 2014 and majored in Computer Science.
 - I was the first Senior Resident of [Tuttle-Dunnington Residence Hall](http://news.virginia.edu/content/incoming-first-year-students-get-three-new-residence-halls).
 - I served as a Class of 2014 Trustee and on the Young Alumni Council after I graduated.
-- I worked as [the Marketing Committee chair](http://social.virginia.edu/how-the-rotunda-light-show-came-together-for-lighting-of-the-lawn) for the 2013 [Lighting of the Lawn](https://www.youtube.com/watch?v=-miMTN_jek8).
+- I worked as the Marketing Committee chair for the 2013 [Lighting of the Lawn](https://www.youtube.com/watch?v=-miMTN_jek8).
 
 ## Personal
 - I'm a [runner](https://www.strava.com/athletes/29864697) and help with my local run club, [NoMa Run Club](https://nomarunclub.com/).
