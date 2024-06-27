@@ -8,12 +8,13 @@ I’m a software engineer interested in front end development, all things JS, an
 
 Currently, I'm a Principal Front End Engineer at [Fundrise](https://www.fundrise.com). 
 
-Previously, I worked as a Senior Software Engineer at [Dorsata](https://www.dorsata.com/) on [The ACOG Prenatal Record](https://www.dorsata.com/womens-health-providers/).
+Previously, I worked as a Senior Software Engineer at [Dorsata](https://www.dorsata.com/) working on their [prenatal electronic health record](https://dorsata.com/prenatal/).
 
 Before that, I was a UI/UX Software engineer at [CCRi](http://www.ccri.com/) on Stealth, a web-based map client for performing complex spatial analytics and visualizing geospatial data, Arpeggio, a marketing and sales trend analytics application, and [GeoMesa](http://geomesa.org), an open-source, distributed, geospatial database.
 
 ## Recent projects
 
+- [Re-news-er](https://github.com/jdk2pq/re-news-er) Live in DC and have a DC Library Card? Then automate your free access to the NY Times and Washington Post!
 - [DidUVAWin.com](http://www.diduvawin.com/) Go Hoos! [Find the source code here](https://github.com/jdk2pq/diduvawin).
 - [The Advent of Code](https://github.com/jdk2pq/advent-of-code-2023) using Typescript. Previous years: [2022](https://github.com/jdk2pq/advent-of-code-2022), [2021](https://github.com/jdk2pq/advent-of-code-2021), [2020](https://github.com/jdk2pq/advent-of-code-2020), [2019](https://github.com/jdk2pq/adventOfCode2019), [2018](https://github.com/jdk2pq/adventOfCode2018)
 - [The Stranger Things Wall](https://github.com/jdk2pq/Stranger-Things-Integrated), a Halloween project using programmable LED lights that lit up like the Christmas lights from Stranger Things. I forked the project and added the ability to text the Upside Down using Twilio.
